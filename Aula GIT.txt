@@ -1,0 +1,34 @@
+--------CMD DE COMANDOS---------
+
+dir - Para visualizar o que tem dentro da pasta; 
+cd "nome da pasta" - Entra na pasta selecionada;
+cd .. - Volta para o diretorio anterior;
+mkdir "nome da pasta" - Cria uma pasta no diretorio que a pessoa está.
+cls - Limpa a tela do CMD;
+echo "nome" - Imprime o nome na tela;
+echo hello > hello.txt - Redireciona o fluxo para dentro do arquivo TXT e cria o arquivo. 
+del "nome da pasta" - Deleta tudo que tem dentro da pasta selecionada, serve só para deletar arquivos. 
+rmdir "nome do diretorio" /S /Q - Deleta todo o diretorio e o que ta dentro dele.
+
+-- Mover arquivos no git---
+mv "nome do arquivo" ./"pasta"/
+git add "nome do arquivo" "nome da pasta"
+----------GIT---------
+git init -> Para inicializar o código git
+ls -a -> Mostra arquivos ocultos
+---Para primeira configuração---
+git config --global user.email "luan.snobrega@gmail.com"
+git config --global user.name LuanNobrega
+-- Após o git init ---
+git add *
+git commit -m "commit inicial" -> Iniciar um commit
+git status -> Verificar o status do seu git
+git remote add origin "Endreço do repositório"
+git push origin master
+
+git pull origin master -> Para puchar arquivos quando alguem tiver feito alguma mudança.
+git clone "URL do git a ser clonado"
+git remote -v -> Saber em qual repositorio ele ta apontado
+
+
+ 
