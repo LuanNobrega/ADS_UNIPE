@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664392838 source:c:\users\luans\desktop\análise e desenvolvimento de sistemas\2° semestre\técnicas e desenvolvimento de algorítmos\lista de exercicios\questão4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
