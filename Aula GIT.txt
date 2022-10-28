@@ -29,6 +29,7 @@ git push origin master
 git pull origin master -> Para puchar arquivos quando alguem tiver feito alguma mudança.
 git clone "URL do git a ser clonado"
 git remote -v -> Saber em qual repositorio ele ta apontado
+$ git branch -M master - Mudar branch
 
 
  
