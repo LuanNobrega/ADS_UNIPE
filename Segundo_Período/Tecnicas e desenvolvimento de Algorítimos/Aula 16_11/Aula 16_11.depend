@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669299838 source:c:\users\luans\desktop\análise e desenvolvimento de sistemas\2° semestre\técnicas e desenvolvimento de algorítmos\aula 16_11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
